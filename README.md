@@ -8,6 +8,7 @@ The website was built using HTML, CSS and Javascript, Foundation, Bootsrap and J
 ## Pages
 
 Single responsive page containing the interactive dashboard that includes a weather output as well as a carousel gallery.
+https://jessicaramirezcalderon.github.io/weather-gallery/ 
 
 ![Weather Gallery demo](WGdemo.png)
 
